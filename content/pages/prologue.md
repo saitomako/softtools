@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: まえがき
 seo:
   title: ''
   description: ''
